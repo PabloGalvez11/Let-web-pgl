@@ -1,0 +1,6 @@
+---
+title: "Experiencia"
+editor: visual
+---
+
+[Un poco de texto para que se vea la página]{style="color: gray;"}

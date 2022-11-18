@@ -1,0 +1,7 @@
+---
+title: "Blog"
+editor: visual
+listing:
+  contents: posts
+  type: grid
+---

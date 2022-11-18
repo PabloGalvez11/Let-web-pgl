@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Capibara\n\n\nNov 18, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Experiencia.html",
+    "href": "Experiencia.html",
+    "title": "Experiencia",
+    "section": "",
+    "text": "Un poco de texto para que se vea la página"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carpincho",
+    "section": "",
+    "text": "Carpincho"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Carpincho",
+    "section": "Education",
+    "text": "Education\nDoctorado en Medicina.\n< >\nowo"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Carpincho",
+    "section": "Experience",
+    "text": "Experience\nCon experiencia"
+  },
+  {
+    "objectID": "posts/analisis-muy-interesante.html",
+    "href": "posts/analisis-muy-interesante.html",
+    "title": "Un análisis muy interesante",
+    "section": "",
+    "text": "Muy interesante todo."
+  }
+]

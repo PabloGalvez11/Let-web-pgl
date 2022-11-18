@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Let-web-pgl"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Página
+      - href: Experiencia.qmd
+        text: Experiencia uwu
+      - href: Blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: Darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

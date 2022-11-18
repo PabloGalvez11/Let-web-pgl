@@ -1,0 +1,9 @@
+---
+title: "Un análisis muy interesante"
+editor: visual
+image: carpincho.jpg
+date: 2022-11-18
+author: "Capibara"
+---
+
+Muy interesante todo.

@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: bd407c08-482b-4b2a-8ee7-fedcf1f1b0ff
+      url: 'https://carpinchoq.netlify.app'

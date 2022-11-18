@@ -1,0 +1,27 @@
+---
+title: "Carpincho"
+about:
+  template: broadside
+  image: carpincho.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Carpincho
+
+## Education
+
+Doctorado en Medicina.
+
+< \br >
+
+owo
+
+## Experience
+
+Con experiencia
